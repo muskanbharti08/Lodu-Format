@@ -22,7 +22,7 @@ let clkYel = () =>{
 }
         return (
                 <>
-                        <div className="border border-black w-fit p-9 rounded-xl mt-32 space-y-4 items-center mx-auto bg-gray-100 hover:bg-gray-200">
+                        <div className="border border-black w-fit p-9 rounded-xl mt-32 sm:mt-24 space-y-4 items-center mx-auto bg-gray-100 hover:bg-gray-200">
                                 <p className="font-bold text-xl">LUDO <CasinoIcon /></p>
                                 <div className="">
                                         <p className="text-red-600 font-semibold">Red Moves: {num1}</p>
